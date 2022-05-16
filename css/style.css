@@ -1,0 +1,137 @@
+
+body{
+    font-family:Roboto,sans-serif;
+}
+
+.conteiner{
+    height: 100%;
+    background-image: url(https://dals0gb6i1pll.cloudfront.net/img/banner-mobile-buser.e1bda3c.png),
+    linear-gradient(135deg, #d11264, #f11075);
+    background-size:cover;
+    background-position: top;
+}
+
+.barra-navegacao    {
+    display: flex;
+    background-color: #fff;
+    width: 100%;
+    height: 100%;
+    height: 15vw;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.logo-navagacao{
+    width:35vw;
+    margin-left: 1rem;
+}
+
+.entrar{
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
+    margin-right: 1rem;
+    color: #f15076;
+    font-weight: bold;
+}
+
+.titulo{
+    font-size: 1.4rem;
+    color: white;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 5rem;
+
+}
+
+.subtitulo{
+    font-size: 1rem;
+    color: white;
+    text-align: left;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.conteudo-buscador{
+    width: 90%;
+    height: 17rem;
+    background-color: white;
+    margin: auto;
+}
+
+.box-buscador{
+    margin-left: 1rem;
+    padding-top: 0.5rem;
+}
+
+
+.title-buscador{
+    font-size: 12px;
+    font-weight: 500;
+    margin-bottom: 0.2rem;
+}
+
+.caixinha{
+    width: 90%;
+    height: 30px;
+    border: 1px solid rgb(220, 219, 219);
+    border-radius: 5px;
+    margin-bottom: 0.2rem;
+    display: flex;
+    align-items: center;
+}
+
+.icones-buscador{
+    width: 12px;
+    margin-left: 0.5rem;
+}
+
+.icones-buscador-arrow{
+    width: 12px;
+    margin-left: 5rem;
+}
+
+.texto-caixinha{
+    text-align: left;
+    line-height: 35px;
+    font-size: 14px;
+    color: #8d919f;
+    margin-left: 0.5rem;
+}
+
+.caixinha-rosa{
+    width: 90%;
+    height: 30px;
+    background-color: #ff0778;
+    border: 1px solid rgb(220, 219, 219);
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    line-height: 25px;
+    margin-top: 1rem;
+}
+
+footer{ 
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 0.5rem;
+   
+}
+
+.icone-footer{
+    text-align: center;
+    flex-grow: 1;
+}
+
+.icone-tam{
+    width: 14px;
+}
+
+div p{
+    text-align: center;
+}
+
