@@ -1,4 +1,4 @@
 # Desafio-D7
-Desafio-Buscador
+Desafio Busertech - Buscador
 
 https://evandropcs.github.io/Desafio-D7/

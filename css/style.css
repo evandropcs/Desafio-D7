@@ -59,6 +59,7 @@ body{
     height: 17rem;
     background-color: white;
     margin: auto;
+    border-radius: 8px;
 }
 
 .box-buscador{
@@ -106,7 +107,7 @@ body{
     height: 30px;
     background-color: #ff0778;
     border: 1px solid rgb(220, 219, 219);
-    border-radius: 5px;
+    border-radius: 8px;
     text-align: center;
     color: white;
     font-size: 16px;
