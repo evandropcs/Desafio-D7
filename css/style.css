@@ -90,8 +90,9 @@ body{
 }
 
 .icones-buscador-arrow{
+    width: 100%;
     width: 12px;
-    margin-left: 5rem;
+    margin-left: 6.5rem;
 }
 
 .texto-caixinha{
@@ -135,4 +136,3 @@ footer{
 div p{
     text-align: center;
 }
-
